@@ -1,0 +1,23 @@
+manifest.json
+  37a756418dca5e7c 22-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "bdd8f41cdf3f895f7546c22fe0d637e38032a4eb",
+  "prompts": {
+    "37a756418dca5e7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04d90f93-a618-489d-ad9d-bad558ca3424",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "tpilewicz <31728184+tpilewicz@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 0,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
