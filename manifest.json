@@ -19,6 +19,9 @@
   "background": {
     "scripts": ["background.js"]
   },
+  "data_collection_permissions": {
+    "has_user_data": false
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
