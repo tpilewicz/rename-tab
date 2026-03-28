@@ -19,8 +19,13 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "data_collection_permissions": {
-    "has_user_data": false
+  "browser_specific_settings": {
+    "gecko": {
+      "data_collection_permissions": {
+        "required": [],
+        "optional": []
+      }
+    }
   },
   "content_scripts": [
     {
