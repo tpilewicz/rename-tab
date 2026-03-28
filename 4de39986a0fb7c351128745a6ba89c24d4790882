@@ -1,0 +1,33 @@
+content.js
+  37a756418dca5e7c 1-100
+manifest.json
+  37a756418dca5e7c 1-29
+popup.html
+  37a756418dca5e7c 1-55
+popup.js
+  37a756418dca5e7c 1-34
+background.js
+  37a756418dca5e7c 1-8
+icon.svg
+  37a756418dca5e7c 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.20",
+  "base_commit_sha": "4de39986a0fb7c351128745a6ba89c24d4790882",
+  "prompts": {
+    "37a756418dca5e7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04d90f93-a618-489d-ad9d-bad558ca3424",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "tpilewicz <31728184+tpilewicz@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 231,
+      "total_deletions": 0,
+      "accepted_lines": 231,
+      "overriden_lines": 0
+    }
+  }
+}
