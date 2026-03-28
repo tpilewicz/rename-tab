@@ -21,6 +21,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
+      "id": "rename-tab@tpilewicz",
       "data_collection_permissions": {
         "required": ["none"]
       }
